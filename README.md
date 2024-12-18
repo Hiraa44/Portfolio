@@ -16,16 +16,16 @@ My third working experience is with Studies Weekly testing an LMS used by Teache
 
 **Tools**
 
-(Jira)[https://www.atlassian.com/pl/software/jira]
-(TFS)[https://learn.microsoft.com/en-us/previous-versions/azure/devops/all/overview?view=tfs-2018]
-(Slack)[https://slack.com/]
-(Google Drive)[https://workspace.google.com/products/drive/]
-(Postman)[https://learning.postman.com/docs/getting-started/installation/installation-and-updates/]
-(Selenium)[]
-(GitHub)[]
-(GitLab)[]
-(Visual Studio Code)[]
-(Figma)[]
+[Jira](https://www.atlassian.com/pl/software/jira)
+[TFS](https://learn.microsoft.com/en-us/previous-versions/azure/devops/all/overview?view=tfs-2018)
+[Slack](https://slack.com/)
+[Google Drive](https://workspace.google.com/products/drive/)
+[Postman](https://learning.postman.com/docs/getting-started/installation/installation-and-updates/)
+[Selenium]()
+[GitHub]()
+[GitLab]()
+[Visual Studio Code]()
+[Figma]()
 
 
 **Operating Systems**
@@ -33,7 +33,7 @@ My third working experience is with Studies Weekly testing an LMS used by Teache
 Windows, Linux, ANdroid & IOS
 
 **Technical Skills**
-(SQL)[https://support.microsoft.com/pl-pl/topic/j%C4%99zyk-access-sql-podstawowe-poj%C4%99cia-s%C5%82ownictwo-i-sk%C5%82adnia-444d0303-cde1-424e-9a74-e8dc3e460671]
+[SQL](https://support.microsoft.com/pl-pl/topic/j%C4%99zyk-access-sql-podstawowe-poj%C4%99cia-s%C5%82ownictwo-i-sk%C5%82adnia-444d0303-cde1-424e-9a74-e8dc3e460671)
 SQL clause
 
 Action
