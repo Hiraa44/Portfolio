@@ -16,27 +16,29 @@ My third working experience is with Studies Weekly testing an LMS used by Teache
 
 **Tools**
 
-[Jira](https://www.atlassian.com/pl/software/jira)
+[Jira](https://www.atlassian.com/pl/software/jira) Bug Tracking & Reproting,  Project Management 
 
-[TFS](https://learn.microsoft.com/en-us/previous-versions/azure/devops/all/overview?view=tfs-2018)
+[TFS](https://learn.microsoft.com/en-us/previous-versions/azure/devops/all/overview?view=tfs-2018) Bug Tracking & Reporting, Test Cases Management
 
-[Slack](https://slack.com/)
+[Slack](https://slack.com/) Teams Communication
 
-[Google Drive](https://workspace.google.com/products/drive/)
+[Microsoft Teams]() Teams Communication 
 
-[Postman](https://learning.postman.com/docs/getting-started/installation/installation-and-updates/)
+[Google Drive](https://workspace.google.com/products/drive/) For Testing and managing Test Data
 
-[Selenium]()
+[Postman](https://learning.postman.com/docs/getting-started/installation/installation-and-updates/) API testing 
 
-[GitHub]()
+[Selenium]()  For learning automation
 
-[GitLab]()
+[GitHub]() For maintaining work repositories
 
-[Visual Studio Code]()
+[GitLab]() For deploying merge requests
 
-[Figma]()
+[Visual Studio Code]() For leraning automation
 
-[Chrome Dev Tools]()
+[Figma]() For UI & Design testing
+
+[Chrome Dev Tools]() For trouble shooting and debugging issues
 
 
 **Operating Systems**
@@ -59,6 +61,10 @@ Windows, Linux, Android & IOS
 
 - Bug Reporting and Defect Tracking
 
+- UAT Testing
+
+- Production Testing
+
 - [SQL](https://support.microsoft.com/pl-pl/topic/j%C4%99zyk-access-sql-podstawowe-poj%C4%99cia-s%C5%82ownictwo-i-sk%C5%82adnia-444d0303-cde1-424e-9a74-e8dc3e460671)
 
 - [Java]() - For practicing Automation
@@ -76,6 +82,8 @@ Windows, Linux, Android & IOS
 - Humble
 
 - Pro active
+
+- Trouble Shooting the issues
 
 **Project & Domains on which I have worked**
 
