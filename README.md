@@ -77,5 +77,5 @@ Windows, Linux, Android & IOS
 
 - Pro active
 
-  
+  **Project & Domains on which I have worked**
 
