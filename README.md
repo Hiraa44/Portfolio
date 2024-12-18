@@ -97,7 +97,10 @@ Windows, Linux, Android & IOS
 
 [Onwards Search]() **Employee Recruitment System**
 
-- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)  **Manual Testing**   **80%**
+**Work Percentages**
+
+- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png)   **Manual Testing**   **80%**
   
 
-- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)  **Automation Testing** **20%**
+
+- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)   **Automation Testing** **20%**
