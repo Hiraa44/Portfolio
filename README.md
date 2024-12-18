@@ -17,61 +17,65 @@ My third working experience is with Studies Weekly testing an LMS used by Teache
 **Tools**
 
 [Jira](https://www.atlassian.com/pl/software/jira)
+
 [TFS](https://learn.microsoft.com/en-us/previous-versions/azure/devops/all/overview?view=tfs-2018)
+
 [Slack](https://slack.com/)
+
 [Google Drive](https://workspace.google.com/products/drive/)
+
 [Postman](https://learning.postman.com/docs/getting-started/installation/installation-and-updates/)
+
 [Selenium]()
+
 [GitHub]()
+
 [GitLab]()
+
 [Visual Studio Code]()
+
 [Figma]()
+
+[Chrome Dev Tools]()
 
 
 **Operating Systems**
 
-Windows, Linux, ANdroid & IOS
+Windows, Linux, Android & IOS
 
-**Technical Skills**
+**Technical Skills** 
+
+Functional Testing
+
+Regression Testing
+
+Smoke Testing
+
+Sanity Testing
+
+Non-Functional Testing
+
+UI Testing
+
+Bug Reporting and Defect Tracking
+
 [SQL](https://support.microsoft.com/pl-pl/topic/j%C4%99zyk-access-sql-podstawowe-poj%C4%99cia-s%C5%82ownictwo-i-sk%C5%82adnia-444d0303-cde1-424e-9a74-e8dc3e460671)
-SQL clause
 
-Action
+[Java]() - For practicing Automation
 
-Required
+[TestNg]() - For practicing Automation
 
-SELECT
+**Soft Skills**
 
-Returns a list of fields containing the given data.
+- Attention to Detail
 
-Yes
+- Effective Communication
 
-FROM
+- Bug Reporting
 
-Returns a list of tables containing the fields listed in the SELECT clause.
+- Humble
 
-Yes
+- Pro active
 
-WHERE
+  
 
-Specifies the field criteria that a record must meet to be included in the results.
-
-NO
-
-ORDER BY
-
-Specifies how the results are sorted.
-
-NO
-
-GROUP BY
-
-In an SQL statement containing aggregate functions, returns a list of fields that are not summarized in the SELECT clause.
-
-Only if such fields exist
-
-HAVING
-
-In an SQL statement containing aggregate functions, specifies conditions that apply to the fields summarized in the SELECT clause.
-
-NO
