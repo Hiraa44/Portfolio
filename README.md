@@ -45,25 +45,25 @@ Windows, Linux, Android & IOS
 
 **Technical Skills** 
 
-Functional Testing
+- Functional Testing
 
-Regression Testing
+- Regression Testing
 
-Smoke Testing
+- Smoke Testing
 
-Sanity Testing
+- Sanity Testing
 
-Non-Functional Testing
+- Non-Functional Testing
 
-UI Testing
+- UI Testing
 
-Bug Reporting and Defect Tracking
+- Bug Reporting and Defect Tracking
 
-[SQL](https://support.microsoft.com/pl-pl/topic/j%C4%99zyk-access-sql-podstawowe-poj%C4%99cia-s%C5%82ownictwo-i-sk%C5%82adnia-444d0303-cde1-424e-9a74-e8dc3e460671)
+- [SQL](https://support.microsoft.com/pl-pl/topic/j%C4%99zyk-access-sql-podstawowe-poj%C4%99cia-s%C5%82ownictwo-i-sk%C5%82adnia-444d0303-cde1-424e-9a74-e8dc3e460671)
 
-[Java]() - For practicing Automation
+- [Java]() - For practicing Automation
 
-[TestNg]() - For practicing Automation
+- [TestNg]() - For practicing Automation
 
 **Soft Skills**
 
