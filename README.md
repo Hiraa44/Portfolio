@@ -2,7 +2,7 @@
 
 **About Me**
 
-Hi, my name is Hira Ali. Since 2021 I have been working as a SQA Engineer. Its almost 3.7 years now. In this portfolio, I would like to share my knowledge of QA and showcase my practical skills that I have gained through courses, self-study and my job. I am determined to continue to grow in this field. I have also started learning test automation in, so at the moment my main focus is on furthering my knowledge (and practice!) in this area.
+Hi, my name is Hira Ali. Since **2021** I have been working as a SQA Engineer. Its almost **3.7 years** now. In this portfolio, I would like to share my knowledge of QA and showcase my practical skills that I have gained through courses, self-study and my job. I am determined to continue to grow in this field. I have also started learning test automation in, so at the moment my main focus is on furthering my knowledge (and practice!) in this area.
 
 [Click here to see my LInkedin Profile](https://www.linkedin.com/in/hira-ali-4a5b1b1a3/)
 
@@ -96,3 +96,8 @@ Windows, Linux, Android & IOS
 [Studies Weekly]() **Learning Management System**
 
 [Onwards Search]() **Employee Recruitment System**
+
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`**Manual Testing**   **80%**
+  
+
+- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015` **Automation Testing** **20%**
